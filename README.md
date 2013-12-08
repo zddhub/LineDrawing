@@ -25,7 +25,7 @@ Thanks
 	Original by Tilke Judd  
 	Tweaks by Szymon Rusinkiewicz  
 >
->[apparent ridges for line drawings][2]  
+>[Apparent ridges for line drawings][2]  
 	apparentridge.h  
 	Compute apparent ridges.  
 >
@@ -35,7 +35,7 @@ Thanks
 	ACM Trans. Graphics (Proc. SIGGRAPH), vol. 26, no. 3, 2007.  
 
 [1]: http://gfx.cs.princeton.edu/proj/sugcon/
-[2]: http://people.csail.mit.edu/tjudd/apparentridges.html 	
+[2]: http://people.csail.mit.edu/tjudd/apparentridges.html
 
 Contact
 -------
